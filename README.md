@@ -9,40 +9,52 @@ The goal of this project is to transform raw transactional data into meaningful 
 
 ## 🎯 Business Objective
 The primary objective of this analysis is to:
-- Analyze overall revenue and order trends
+- Analyze overall quantity, transactions and order trends
 - Identify top-performing restaurants and cuisines
 - Track customer ordering behavior
-- Measure delivery performance metrics
 - Support data-driven business decisions
 
 ---
 
+## 📊 Key Performance Indicators (KPIs)
+
+- **Total Quantity Sold:** 15.10K  
+- **Total Transactions:** 2,746  
+- **Average Quantity per Transaction:** 5.50  
+- **Delivery Success Rate:** ~94%  
+- **Top Performing Restaurant:** Bukhara  
+- **Most Popular Payment Method:** UPI  
 
 ---
 
 ## 🛠 Tools & Technologies Used
-- Microsoft Power BI
-- Power Query (Data Cleaning & Transformation)
-- DAX (Data Analysis Expressions)
-- Data Modeling
-- Data Visualization Best Practices
+- **Microsoft Power BI** – Interactive dashboard development
+- **Power Query** – Data cleaning and transformation
+- **DAX (Data Analysis Expressions)** – KPI calculations, measures, aggregations
+- **Data Modeling** – Relationship building and star schema design
 
 ---
 
 ## 📊 Key Insights
-- Identified peak ordering hours to optimize staffing
-- Discovered highest revenue-generating cuisines
-- Highlighted delivery delays in specific regions
-- Analyzed customer retention patterns
-
+- Over **94% delivery success rate** reflects strong operational efficiency.
+- **UPI is the dominant payment method**, indicating strong digital adoption.
+- The **Main Course category records the highest quantity ordered**, making it the primary demand driver.
+- The top two restaurants contribute the largest share of total quantity ordered, indicating operational concentration.
+- **Gold members consistently order higher quantities across major food categories compared to Regular members**, suggesting stronger engagement.
+- Average quantity per transaction is **5.50 items**, indicating moderate order bundling behavior.
+  
 ---
 
 ## 📸 Dashboard Preview
+
+---
 
 ## 📬 Conclusion
 
 This project demonstrates the ability to convert raw transactional data into actionable business insights using structured Business Intelligence methodology and interactive visualization techniques.  
 
 It showcases skills in data modeling, KPI development, DAX calculations, and storytelling through dashboards to support strategic business decisions.
+
+---
 
 ## ⭐ If you found this project helpful, feel free to star the repository!
