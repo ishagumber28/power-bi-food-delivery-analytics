@@ -46,6 +46,7 @@ The primary objective of this analysis is to:
 ---
 
 ## 📸 Dashboard Preview
+![Dashboard Preview](https://github.com/ishagumber28/power-bi-food-delivery-analytics/blob/80892894b76c01c040e6f810b83dca0846fa1d6b/food-delivery-dashboard-preview.png)
 
 ---
 
